@@ -11,9 +11,9 @@
  * ----------------------------------------------------------
  */
 
-
+//Making some changes for git
 package lauraslandscaping;
-
+//Change 2
 
 import javax.swing.*;
 
