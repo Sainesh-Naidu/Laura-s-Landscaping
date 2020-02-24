@@ -53,6 +53,7 @@ public class LaurasLandscaping extends JFrame implements ActionListener
         LaurasLandscaping lauraslandscapingApplication = new LaurasLandscaping();
         lauraslandscapingApplication.run();
     }
+	// this is a comment added here by Jval
     
         private void run()
     {
